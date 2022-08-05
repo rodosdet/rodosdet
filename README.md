@@ -1,23 +1,35 @@
-
 # Rodolfo Ariel Fernandez
 
 I am a person who likes to say that his day was productive day and that I'm closer to meeting the goals that I proposed to myself and those that we proposed as a team.
 
 I do not like to feel that I’m not making any progress therefore I'm always looking for new challenges, something to learn, improving the things I do well and learning from mistakes, I adapt well to any team whether large or small, local or remote and my level of English has allowed me to communicate smoothly with clients and members of the team.
 
-Currently I'm aiming more strongly to an Automation career therefore I’m taking courses to improve my skills in the matter and trying to learn as much as possible of the projects in i'm involved.
-
 ## ***Contact info.***
-E-Mail: [rodosdet@outlook.com](mailto:rodosdet@outlook.com)\
+E-Mail: [roarfe.mza.arg@outlook.com](mailto:roarfe.mza.arg@outlook.com)\
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/fernandezrodolfo/)
 
 ## ***Experience***
 
-### QA Enginner @ Cognizant Softvision
-May 2021 - Current
+### QA Tester @ Endava
+#### Jan 2022 - Currently
+
+**Customer:** one of the key players in the area of hospitality workforce, inventory management and cost-control operations platform
+
+**Responsibilities:** Manual testing over ongoing developments and Automated Regression testing 
+
+**Challenges:** Due europe situation it was required to pick up the slack and try to reach pace quickly so development cycle not be affected
+
+**Achievements:** Carrying out testing activities, both manual and automated accordingly with requierements and proposing process improvements in places where we could have benefits
+
+**Tools:** Rally, Testrail, PyCharm, SOAPui, MSSQL
+
+**Team and Methodology:** Kanban at beginning then Scrum, Half Spanish, half english
+
+### QA Enginner @ Cognizant Softvision  
+#### May 2021 - November 2021
 
 Project
-May 2021 - Current
+May 2021 - November 2021
 
 Carry on manual tests and defining and implementing automation strategy and tools for both Web and API developments of the modernization project for one of largest food american corporation.
 
@@ -50,7 +62,7 @@ Tools: Java, Gerkhin, Selenium WebDriver, Jira.
 
 Team and Methodology: Scrum, English, 10 people.
 
-### QA Engineer @ Belatrix Software (Now Belatrix division by Globant)
+### QA Engineer @ Belatrix Software (Bought by Globant)
 February 2015 - July 2020 (5 years and 5 months)
 Mendoza, Argentina
 
@@ -86,11 +98,15 @@ Tools: HP QuickTest Professional (QTP), HP Application lifecycle Management (ALM
 
 ## ***Certifications***
 
-* *COVID-19 Contact Tracing*
-  Coursera - May 2020
+* **Microsoft certified: Azure Fundamentals** - Microsoft - Jun 2022 - [See credential](https://www.credly.com/badges/59535e38-d4dc-48aa-91ab-aa8e35cabe19?source=linked_in_profile)
+
+* **EF SET English Certificate 66/100 (C1 Advanced)** - EF Standard English Test (EF SET) - May 2022 - [See credential](https://www.efset.org/cert/tJ8gFY) 
+
+* **COVID-19 Contact Tracing** - Coursera - May 2020 - [See credential](https://www.coursera.org/account/accomplishments/certificate/KU3B8PHEMKJ6)
 
 ## ***Courses***
 
+* Udemy - AZ-900: Microsoft Azure Fundamentals Exam Prep - (2022)
 * Udemy - Automated software Testing with Cypress (2021)
 * Udemy - Selenium WebDriver and Design Patterns (2021)
 * Udemy - Karate DSL: API Automation and Performance from Zero to Hero (2021)
@@ -111,4 +127,5 @@ Tools: HP QuickTest Professional (QTP), HP Application lifecycle Management (ALM
 ## ***Languages***
 
 * German A1.1 - B1.2 - Goethe Zentrum Mendoza (2019-2021)
+* English In-Company - Upper-Intermediate (2014-2015)
 * English In-Company - Upper-Intermediate (2014-2015)
