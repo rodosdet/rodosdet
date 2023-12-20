@@ -1,14 +1,24 @@
-[![Board Status](https://dev.azure.com/rodosdet/bf40e067-4e38-4547-b495-c47175630692/58f6e7a6-6c52-4025-a5b7-10cf725d2ce4/_apis/work/boardbadge/ab8dcaa3-4fb0-4765-a9cf-72cdea72292d?columnOptions=1)](https://dev.azure.com/rodosdet/bf40e067-4e38-4547-b495-c47175630692/_boards/board/t/58f6e7a6-6c52-4025-a5b7-10cf725d2ce4/Microsoft.RequirementCategory/)
 # Rodolfo Ariel Fernandez  
   
-I am a person who likes to say that his day was productive day and that I'm closer to meeting the goals that I proposed to myself and those that we proposed as a team.  
-  
-I do not like to feel that I’m not making any progress therefore I'm always looking for new challenges, something to learn, improving the things I do well and learning from mistakes, I adapt well to any team whether large or small, local or remote and my level of English has allowed me to communicate smoothly with clients and members of the team.    
+I am a person who likes to say that his day was productive and that I am closer to achieving the goals that I set for myself and those that we set for ourselves as a team, I like to feel that I am progressing, so I am always looking for new challenges, something to learn, improving the things that I do well and learning from mistakes. What I am looking for is a place where I can help make decisions, improve processes and results based on my training and experience. 
+
+**What i can bring?**
+- +13 years of experience in software testing and quality assurance.
+- Experience in Manual and Automation Testing (UI and API).
+- Experience with **Java**, Selenium WebDriver, Cucumber (UI)
+- Experience with **Java**, RestAssured, Karate, Postman, Swagger (API)
+- Knowledge agile methodologies (SCRUM).
+- Knowledge of requirement gathering, analysis and refinement.
+- Able to plan, analyze, design, develop, execute and maintain manual and automated tests including determining priority for test scenarios and creating execution plans to implement these scenarios.
+- Able to identify opportunities for automation within software processes.
+- Advanced and practical knowledge of testing and implementation strategies.
+- Able to identify and clearly document bugs found. Deliver regular reports on bugs found.
+- Introduce suitable metrics for measuring test progress and evaluating the quality of the testing.
 
 ***
   
 ## ***Contact info.***  
-E-Mail: [roarfe.mza.arg@outlook.com](mailto:roarfe.mza.arg@outlook.com)\  
+E-Mail: [roarfe.mza.arg@outlook.com](mailto:roarfe.mza.arg@outlook.com)
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/fernandezrodolfo/)  
 
 ***
@@ -16,89 +26,31 @@ LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/fernandezrodolfo/)
 ## ***Experience***  
   
 ### SDET @ Forte Group   
-Oct 2022 - Currently  
-  
-* **Customer:** Leading global risk and compliance solutions company. A company that provides software as a service (SaaS) products, software-enabled services (SeS), print, and compliance services related to US Securities and Exchange Commission regulations to companies in capital and investment markets.    
-* **Responsibilities:**  Requirements analisys, functional testing, bug triage, automation scripts creation and maintanence, automation run analisys, regression testing  
-* **Team and Methodology:** Scrum, Remote Latam-Europe-EEUU  
-
-1. Stage 1
-	* **Challenges:**   Another teams testing work takeover, converting manual testcases to automated  
-	* **Achievements:**   Bug amount reduction, better quality metrics  
-	* **Tools:**   Azure ADO, Github, Selenium for C#, Visual Studio
-
-2. Stage 2
-	* **Challenges:**   Start from scratch project, defining processes, new QA framework for API, new QA framework for UI 
-	* **Achievements:**   Bug amount reduction, better quality metrics  
-	* **Tools:**   Azure ADO, Github, Java Selenium, Cucumber, Serenity, IntellJ IDEA  
+Oct 2022 - Currently  (1 year)
   
 ### QA Tester @ Endava  
-Jan 2022 - Sept 2022  
+Jan 2022 - Sept 2022   (9 months)
   
-* **Customer:** One of the key players in the area of hospitality workforce, inventory management and cost-control operations platform    
-* **Responsibilities:** Manual testing over ongoing developments and Automated Regression testing     
-* **Challenges:** Due europe situation it was required to pick up the slack and try to reach pace quickly so development cycle not be affected    
-* **Achievements:** Carrying out testing activities, both manual and automated accordingly with requierements and proposing process improvements in places where we could have benefits    
-* **Tools:** Rally, Testrail, PyCharm, SOAPui, MSSQL    
-* **Team and Methodology:** Kanban at beginning then Scrum, ARG-EEUU  
-  
-### QA Enginner @ Cognizant Softvision    
-May 2021 - November 2021  
-  
-* **Customer:** A privately held American global food corporation which some major businesses are trading, purchasing and distributing grain and other agricultural commodities  
-* **Responsabilities:** Carry on manual tests and defining and implementing automation strategy and tools for both Web and API developments of the modernization project for one of largest food american corporation.  
-* **Tools:** Javascript, Cypress, Postman, Jira.  
-* **Team and Methodology:** Scrum, Remote, Latam  
+### QA Engineer @ Cognizant Softvision    
+May 2021 - November 2021 (7 months) 
   
 ### QA Automation @ Intive  
-October 2020 - April 2021  
-  
-* **Customer:** Local fintech that offer financial servicies, CC, payments, and others  
-* **Responsabilities:** Support with the maintenance and creation of automation scripts for mobile and backend solutions, both built on Java-Karate. Also the support of the manual test tasks of the mobile app and backend developments all this in agile Scrum methodology.  
-* **Tools:** Java, Gerkhin, Karate DSL (Rest-assured with BDD layer), Postman, Appium, Android SDK, Android Emulators, Jira.  
-* **Team and Methodology:** Scrum, Spanish, 9 people.  
+October 2020 - April 2021  (7 months)
   
 ### QA Engineer @ Belatrix Software (Bought by Globant)  
-February 2015 - July 2020  
+February 2015 - July 2020  (5 years, 6 months)
 Mendoza, Argentina  
-  
-* **On bench**  
-August 2019 - July 2020  
-  
-Training in everything related to automation, trying to acquire the required skills since I want to take my career towards a more technical profile and that is why I am taking courses and trying to create automation frameworks to apply these knowledge.  
-  
-* **Previous projects**  
-February 2015 - August 2019  
-  
-Always as a manual tester my tasks covered from the analysis / definition of requirements, definition of acceptance criteria, creation, execution and maintenance of tests to the reporting of defects, failures and improvements.  
-  
-All the projects have been under Scrum methodology, with different degrees of application, which has allowed me to gather experience in terms of the advantages of the ceremonies and roles of the methodology.  
-  
-In a couple of projects I had the opportunity to work with automated tests, Java + Selenium, but these did not last long, I keep already created tests fixed and running and analyze executions results.  
-  
-I also had the opportunity to test mobile apps, whether on physical devices such as simulated or emulated, Android mostly checking the operation in different versions.  
-  
-* **Tools:** Microsoft TFS, Microsoft SQL Management, Microsoft Test Manager, Visual Studio Online, Attlassian Jira, Axure rp Pro, IE, FF y Chrome, Genymotion, User-Agent.  
-* **Technologies and libraries:** Java, Selenium Webdriver, TestNG, Maven, Cucumber, Hiptest, MySql, Rest Assured, MySQL workbench, log4j, JDBC, Git, Jenkins CI, Github, Gitlab.  
   
 ### QC Tester @ Aconcagua Software Factory S.A.  
-September 2011 - January 2015  
+September 2011 - January 2015  (3 years, 6 months)
 Mendoza, Argentina  
-  
-As a manual tester my tasks included the creation, execution and maintenance of tests and the reporting of defects, failures and improvements.  
-  
-In the last project in which I participated I performed automation tasks using HP QTP on Web and SAP applications; I was also in charge of inducing colleagues who were entering the project.  
-  
-Tools: HP QuickTest Professional (QTP), HP Application lifecycle Management (ALM), SoapUI, Microsoft TFS, Visual Studio Online, Attlassian Jira,  IE, FF y Chrome, Selenium IDE.  
 
 ***
   
 ## ***Certifications***  
   
 * **Microsoft certified: Azure Fundamentals** - Microsoft - Jun 2022 - [See credential](https://www.credly.com/badges/59535e38-d4dc-48aa-91ab-aa8e35cabe19?source=linked_in_profile)  
-  
-* **EF SET English Certificate 66/100 (C1 Advanced)** - EF Standard English Test (EF SET) - May 2022 - [See credential](https://www.efset.org/cert/tJ8gFY)   
-  
+* **EF SET English Certificate 69/100 (C1 Advanced)** - EF Standard English Test (EF SET) - Dic 2023 - [See credential](https://www.efset.org/cert/WWBCiE)   
 * **COVID-19 Contact Tracing** - Coursera - May 2020 - [See credential](https://www.coursera.org/account/accomplishments/certificate/KU3B8PHEMKJ6)  
 
 ***
