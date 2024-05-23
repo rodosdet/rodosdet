@@ -4,7 +4,7 @@ I am a QA Engineer with more than 13 years' experience in software testing I've 
 
 ## ***Contact info.***  
 
-[roarfe.mza.arg@outlook.com](mailto:roarfe.mza.arg@outlook.com) | [LinkedIn Profile](https://www.linkedin.com/in/fernandezrodolfo/) | Mendoza, Argentina (GMT -3)
+[![LinkedIn profile badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn)](https://www.linkedin.com/in/fernandezrodolfo/) | [![Outlook mail badge](https://img.shields.io/badge/Email-roarfe.mza.arg@outlook.com-479EF5?logo=microsoftoutlook)](mailto:roarfe.mza.arg@outlook.com) | Mendoza, Argentina (UTC -03:00)
 
 ***
 
