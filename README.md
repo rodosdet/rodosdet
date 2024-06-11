@@ -1,10 +1,10 @@
 # RODOLFO ARIEL FERNANDEZ  
   
-I am a QA Engineer with more than 13 years' experience in software testing I've participated in a variety of projects, different business models like real state, marketing, oil, fintech companies; also in small or large distributed teams, which gave me the opportunity to apply all lections learned, also I am a very detail-oriented person and focused on results, I always try to stay up to date and acquire new technologies, libraries and tools that let me achieve the goals that me, my team setted up
+I am a QA Engineer with over 13 years of experience in software testing. I have participated in a variety of projects across different business models such as real estate, marketing, oil, and fintech companies. I have worked in both small and large distributed teams, which has enabled me to apply all the lessons learned. I am a very detail-oriented person focused on delivering results. I always strive to stay up to date with new technologies, libraries, and tools to help achieve the goals set by myself and my team.
 
 ## ***Contact info.***  
 
-[![LinkedIn profile badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn)](https://www.linkedin.com/in/fernandezrodolfo/) | [![Outlook mail badge](https://img.shields.io/badge/Email-roarfe.mza.arg@outlook.com-479EF5?logo=microsoftoutlook)](mailto:roarfe.mza.arg@outlook.com) | Mendoza, Argentina (UTC -03:00)
+[![LinkedIn profile badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn)](https://www.linkedin.com/in/fernandezrodolfo/) [![Outlook mail badge](https://img.shields.io/badge/Email-roarfe.mza.arg@outlook.com-479EF5?logo=microsoftoutlook)](mailto:roarfe.mza.arg@outlook.com) [![Static Badge](https://img.shields.io/badge/Download_this_Resume-FA1206?logo=adobeacrobatreader)](https://rodosdet.github.io/rodosdet/Resume_Rodolfo_Fernandez_EN.pdf) Mendoza, Argentina (UTC -03:00)
 
 ***
 
@@ -103,6 +103,7 @@ Tools: HP QuickTest Professional (QTP), HP Application lifecycle Management (ALM
   
 ## ***Certifications***  
   
+* **MongoDB Node.js Developer Path** - MongoDB - May 2024 - [See credential](https://learn.mongodb.com/c/-miEAb8WSYWSiTXC2xpETg)  
 * **Microsoft certified: Azure Fundamentals** - Microsoft - Jun 2022 - [See credential](https://www.credly.com/badges/59535e38-d4dc-48aa-91ab-aa8e35cabe19?source=linked_in_profile)  
 * **EF SET English Certificate 69/100 (C1 Advanced)** - EF Standard English Test (EF SET) - Dic 2023 - [See credential](https://www.efset.org/cert/WWBCiE)   
 * **COVID-19 Contact Tracing** - Coursera - May 2020 - [See credential](https://www.coursera.org/account/accomplishments/certificate/KU3B8PHEMKJ6)  
