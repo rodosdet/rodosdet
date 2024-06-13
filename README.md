@@ -4,7 +4,7 @@
 
 ## ***Contact info.***  
 
-[roarfe.mza.arg@outlook.com](mailto:roarfe.mza.arg@outlook.com) | [LinkedIn Profile](https://www.linkedin.com/in/fernandezrodolfo/) | Mendoza, Argentina (UTC -03:00)
+[![LinkedIn profile badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn)](https://www.linkedin.com/in/fernandezrodolfo/) [![Outlook mail badge](https://img.shields.io/badge/Email-roarfe.mza.arg@outlook.com-479EF5?logo=microsoftoutlook)](mailto:roarfe.mza.arg@outlook.com) [![Static Badge](https://img.shields.io/badge/Download_this_Resume-FA1206?logo=adobeacrobatreader)](https://rodosdet.github.io/rodosdet/Resume_Rodolfo_Fernandez_EN.pdf)
 
 ***
 
