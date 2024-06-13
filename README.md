@@ -1,10 +1,10 @@
-# RODOLFO ARIEL FERNANDEZ  
-  
-I am a QA Engineer with over 13 years of experience in software testing. I have participated in a variety of projects across different business models such as real estate, marketing, oil, and fintech companies. I have worked in both small and large distributed teams, which has enabled me to apply all the lessons learned. I am a very detail-oriented person focused on delivering results. I always strive to stay up to date with new technologies, libraries, and tools to help achieve the goals set by myself and my team.
+# RODOLFO ARIEL FERNANDEZ    
+
+<div style="text-align: justify">I am a QA Engineer with over 13 years of experience in software testing. I have participated in a variety of projects across different business models such as real estate, marketing, oil, and fintech companies. I have worked in both small and large distributed teams, which has enabled me to apply all the lessons learned. I am a very detail-oriented person focused on delivering results. I always strive to stay up to date with new technologies, libraries, and tools to help achieve the goals set by myself and my team.</div>
 
 ## ***Contact info.***  
 
-[![LinkedIn profile badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn)](https://www.linkedin.com/in/fernandezrodolfo/) [![Outlook mail badge](https://img.shields.io/badge/Email-roarfe.mza.arg@outlook.com-479EF5?logo=microsoftoutlook)](mailto:roarfe.mza.arg@outlook.com) [![Static Badge](https://img.shields.io/badge/Download_this_Resume-FA1206?logo=adobeacrobatreader)](https://rodosdet.github.io/rodosdet/Resume_Rodolfo_Fernandez_EN.pdf)
+[roarfe.mza.arg@outlook.com](mailto:roarfe.mza.arg@outlook.com) | [LinkedIn Profile](https://www.linkedin.com/in/fernandezrodolfo/) | Mendoza, Argentina (UTC -03:00)
 
 ***
 
@@ -59,14 +59,14 @@ I am a QA Engineer with over 13 years of experience in software testing. I have 
 * **Customer:** One of the key players in the area of hospitality workforce, inventory management and cost-control operations platform    
 * **Team and Methodology:** Kanban at beginning then Scrum, ARG-EEUU      
 * **Challenges:** Due europe situation it was required to pick up the slack and try to reach pace quickly so development cycle not be affected 
-* **Tasks and responsibilities:**  
-		- Attending grooming and planning meetings to analyze backlog and then define estimation, scope, priority, etc. Aiming shift-left in quality terms.
-		- Performing ad hoc exploratory testing over every SDLC stage.
-		- Functional testing on every Story delivered, run functional and integration test suites on every Sprint. 
-		- Maintaining, and improving, testing repository, fixing, and updating already automated tests on Python-Selenium automation framework.
-		- Bug reporting on every test run, Bug triage for reports coming outside the team, keeping the focus on having all details and traceability needed.
-		- Regression testing, Sanity for every fix, through every  place were bug was reported.
-		- Proposing improvements on testing processes, testing strategy, etc. in places where we could have benefits.
+* **Tasks and responsibilities:**
+	- Attending grooming and planning meetings to analyze backlog and then define estimation, scope, priority, etc. Aiming shift-left in quality terms.
+	- Performing ad hoc exploratory testing over every SDLC stage.
+	- Functional testing on every Story delivered, run functional and integration test suites on every Sprint. 
+	- Maintaining, and improving, testing repository, fixing, and updating already automated tests on Python-Selenium automation framework.
+	- Bug reporting on every test run, Bug triage for reports coming outside the team, keeping the focus on having all details and traceability needed.
+	- Regression testing, Sanity for every fix, through every  place were bug was reported.
+	- Proposing improvements on testing processes, testing strategy, etc. in places where we could have benefits.
 * **Tools:** Rally, Testrail, PyCharm, SOAPui, MSSQL     
   
 #### QA Engineer | Cognizant Softvision    
@@ -75,14 +75,14 @@ I am a QA Engineer with over 13 years of experience in software testing. I have 
 * **Customer:** A privately held American global food corporation which some major businesses are trading, purchasing and distributing grain and other agricultural commodities  
 * **Team and Methodology:** Scrum, Remote, Latam
 * **Tasks and responsibilities:**  
-		- Attending grooming and planning meetings to analyze backlog and then define estimation, scope, priority, etc. Aiming shift-left in quality terms.
-		- Functional testing on every Story delivered, run functional test suites on every Sprint. 
-		- Maintaining, improving, and increasing testing repository.
-		- Bug reporting on every test run, Bug triage for reports coming outside the team, keeping the focus on having all details and traceability needed.
-		- Regression testing, Sanity for every fix, through every  place were bug was reported.
-		- Building metrics for every stage and part to deliver clarification of quality state, reporting test runs outcomes to managers, leaders, and stakeholders.
-		- Assessing testing processes to discover possible needs for modification to be able to hold automation testing in the SDLC.
-		- Present POC to validate reliability of including automated testing in the project, (Cypress for ui tests).
+	- Attending grooming and planning meetings to analyze backlog and then define estimation, scope, priority, etc. Aiming shift-left in quality terms.
+	- Functional testing on every Story delivered, run functional test suites on every Sprint. 
+	- Maintaining, improving, and increasing testing repository.
+	- Bug reporting on every test run, Bug triage for reports coming outside the team, keeping the focus on having all details and traceability needed.
+	- Regression testing, Sanity for every fix, through every  place were bug was reported.
+	- Building metrics for every stage and part to deliver clarification of quality state, reporting test runs outcomes to managers, leaders, and stakeholders.
+	- Assessing testing processes to discover possible needs for modification to be able to hold automation testing in the SDLC.
+	- Present POC to validate reliability of including automated testing in the project, (Cypress for ui tests).
 * **Tools:** Javascript, Cypress, Postman, Jira.    
   
 #### QA Automation | Intive  
@@ -92,12 +92,12 @@ I am a QA Engineer with over 13 years of experience in software testing. I have 
 * **Team and Methodology:** Scrum, Spanish, 9 people. 
 * **Responsabilities:** Support with the maintenance and creation of automation scripts for mobile and backend solutions, both built on Java-Karate. Also the support of the manual test tasks of the mobile app and backend developments all this in agile Scrum methodology.  
 * **Tasks and responsibilities:**  
-		- Attending grooming and planning meetings to analyze backlog and then define estimation, scope, priority, etc..
-		- Functional testing on every Story delivered, run functional and integration test suites on every Sprint. 
-		- Maintaining, improving, and increasing testing repository, promoting manual tests to automation, scripting new tests to both automation frameworks (UI 'n API), fixing, and updating already automated tests.
-		- Bug reporting on every test run, Bug triage for reports coming outside the team, keeping the focus on having all details and traceability needed.
-		- Building metrics for every stage and part to deliver clarification of quality state, reporting test runs outcomes to managers, leaders, and stakeholders.
-		- Regression testing, Sanity for every fix, through every  place were bug was reported.
+	- Attending grooming and planning meetings to analyze backlog and then define estimation, scope, priority, etc..
+	- Functional testing on every Story delivered, run functional and integration test suites on every Sprint. 
+	- Maintaining, improving, and increasing testing repository, promoting manual tests to automation, scripting new tests to both automation frameworks (UI 'n API), fixing, and updating already automated tests.
+	- Bug reporting on every test run, Bug triage for reports coming outside the team, keeping the focus on having all details and traceability needed.
+	- Building metrics for every stage and part to deliver clarification of quality state, reporting test runs outcomes to managers, leaders, and stakeholders.
+	- Regression testing, Sanity for every fix, through every  place were bug was reported.
 * **Tools:** Java, Gerkhin, Karate DSL (Rest-assured with BDD layer), Postman, Appium, Android SDK, Android Emulators, Jira.   
   
 #### QA Engineer | Belatrix Software  
