@@ -4,7 +4,7 @@ I am a QA Engineer with over 13 years of experience in software testing. I have 
 
 ## ***Contact info.***  
 
-[![LinkedIn profile badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn)](https://www.linkedin.com/in/fernandezrodolfo/) [![Outlook mail badge](https://img.shields.io/badge/Email-roarfe.mza.arg@outlook.com-479EF5?logo=microsoftoutlook)](mailto:roarfe.mza.arg@outlook.com) [![Static Badge](https://img.shields.io/badge/Download_this_Resume-FA1206?logo=adobeacrobatreader)](https://rodosdet.github.io/rodosdet/Resume_Rodolfo_Fernandez_EN.pdf) Mendoza, Argentina (UTC -03:00)
+[![LinkedIn profile badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn)](https://www.linkedin.com/in/fernandezrodolfo/) [![Outlook mail badge](https://img.shields.io/badge/Email-roarfe.mza.arg@outlook.com-479EF5?logo=microsoftoutlook)](mailto:roarfe.mza.arg@outlook.com) [![Static Badge](https://img.shields.io/badge/Download_this_Resume-FA1206?logo=adobeacrobatreader)](https://rodosdet.github.io/rodosdet/Resume_Rodolfo_Fernandez_EN.pdf)
 
 ***
 
@@ -27,52 +27,78 @@ I am a QA Engineer with over 13 years of experience in software testing. I have 
   
 #### SDET | Forte Group   
 10/2022 - 11/2023  - Remote
-  
-* **Customer:** Leading global risk and compliance solutions company. A company that provides software as a service (SaaS) products, software-enabled services (SeS), print, and compliance services related to US Securities and Exchange Commission regulations to companies in capital and investment markets.    
-* **Responsibilities:**  Requirements analisys, functional testing, bug triage, automation scripts creation and maintanence, automation run analisys, regression testing  
-* **Team and Methodology:** Scrum, Remote Latam-Europe-EEUU  
+
+* **Tasks:**  
+* **Customer:** Leading global risk and compliance solutions company. A company that provides software as a service (SaaS) products, software-enabled services (SeS), print, and compliance services related to US Securities and Exchange Commission regulations to companies in capital and investment markets. 
+* **Team and Methodology:** Scrum, Remote Latam-Europe-EEUU
+* **Challenges:**  Another teams testing work takeover, converting manual testcases to automated, start from scratch project, defining processes, new QA framework for API, new QA framework for UI 
 
 1. Stage 2
-	* **Challenges:**   Start from scratch project, defining processes, new QA framework for API, new QA framework for UI 
-	* **Tasks:**  
-		- Creating detailed, comprehensive, and well-structured test plans and test cases
-		- Planning and coordinating testing activities
-		- Designing, developing, and executing automation scripts
-		- Identifying, recording, documenting, and tracking bugs
-		- Performing thorough regression testing when bugs are resolved
-		- Tracking quality assurance metrics and report them 
+	* **Tasks and responsibilities:**  
+		- Attending grooming and planning meetings to analyze backlog and then define estimation, scope, priority, etc. Aiming shift-left in quality terms.
+		- Performing ad hoc exploratory testing over every SDLC stage.
+		- Functional testing on every Story delivered, run functional and integration test suites on every Sprint. 
+		- Maintaining, improving, and increasing testing repository, promoting manual tests to automation, scripting new tests to automation framework, fixing, and updating already automated tests.
+		- Bug reporting on every test run, Bug triage for reports coming outside the team, keeping the focus on having all details and traceability needed.
+		- Regression testing, Sanity for every fix, through every  place were bug was reported.
+		- Building metrics for every stage and part to deliver clarification of quality state, reporting test runs outcomes to managers, leaders, and stakeholders.
+		- Agreeing on testing processes, testing strategy, and Way of Work for a new stage where all testware should be built from scratch, tests repository, and automation frameworks.
 	* **Tools:**   Azure ADO, Github, Java Selenium, Cucumber, Serenity, IntellJ IDEA, Postman  
 
 2. Stage 1
-	* **Challenges:**   Another teams testing work takeover, converting manual testcases to automated  
-	* **Achievements:**   Bug amount reduction, better quality metrics  
+	* **Tasks and responsibilities:**  
+		- Attending grooming and planning meetings to analyze backlog and then define estimation, scope, priority, etc. Aiming shift-left in quality terms.
+		- Maintaining, improving, fixing, and updating already automated tests.
+		- Bug reporting on every test run, Bug triage for reports coming outside the team, keeping the focus on having all details and traceability needed.
+		- Building metrics for every stage and part to deliver clarification of quality state, reporting test runs outcomes to managers, leaders, and stakeholders.
 	* **Tools:**   Azure ADO, Github, Selenium for C#, Visual Studio
   
 #### QA Tester | Endava  
 01/2022 - 08/2022  - Remote
   
 * **Customer:** One of the key players in the area of hospitality workforce, inventory management and cost-control operations platform    
-* **Responsibilities:** Manual testing over ongoing developments and Automated Regression testing     
-* **Challenges:** Due europe situation it was required to pick up the slack and try to reach pace quickly so development cycle not be affected    
-* **Achievements:** Carrying out testing activities, both manual and automated accordingly with requierements and proposing process improvements in places where we could have benefits    
-* **Tools:** Rally, Testrail, PyCharm, SOAPui, MSSQL    
-* **Team and Methodology:** Kanban at beginning then Scrum, ARG-EEUU  
+* **Team and Methodology:** Kanban at beginning then Scrum, ARG-EEUU      
+* **Challenges:** Due europe situation it was required to pick up the slack and try to reach pace quickly so development cycle not be affected 
+* **Tasks and responsibilities:**  
+		- Attending grooming and planning meetings to analyze backlog and then define estimation, scope, priority, etc. Aiming shift-left in quality terms.
+		- Performing ad hoc exploratory testing over every SDLC stage.
+		- Functional testing on every Story delivered, run functional and integration test suites on every Sprint. 
+		- Maintaining, and improving, testing repository, fixing, and updating already automated tests on Python-Selenium automation framework.
+		- Bug reporting on every test run, Bug triage for reports coming outside the team, keeping the focus on having all details and traceability needed.
+		- Regression testing, Sanity for every fix, through every  place were bug was reported.
+		- Proposing improvements on testing processes, testing strategy, etc. in places where we could have benefits.
+* **Tools:** Rally, Testrail, PyCharm, SOAPui, MSSQL     
   
 #### QA Engineer | Cognizant Softvision    
 05/2021 - 11/2021  - Remote
   
 * **Customer:** A privately held American global food corporation which some major businesses are trading, purchasing and distributing grain and other agricultural commodities  
-* **Responsabilities:** Carry on manual tests and defining and implementing automation strategy and tools for both Web and API developments of the modernization project for one of largest food american corporation.  
-* **Tools:** Javascript, Cypress, Postman, Jira.  
-* **Team and Methodology:** Scrum, Remote, Latam  
+* **Team and Methodology:** Scrum, Remote, Latam
+* **Tasks and responsibilities:**  
+		- Attending grooming and planning meetings to analyze backlog and then define estimation, scope, priority, etc. Aiming shift-left in quality terms.
+		- Functional testing on every Story delivered, run functional test suites on every Sprint. 
+		- Maintaining, improving, and increasing testing repository.
+		- Bug reporting on every test run, Bug triage for reports coming outside the team, keeping the focus on having all details and traceability needed.
+		- Regression testing, Sanity for every fix, through every  place were bug was reported.
+		- Building metrics for every stage and part to deliver clarification of quality state, reporting test runs outcomes to managers, leaders, and stakeholders.
+		- Assessing testing processes to discover possible needs for modification to be able to hold automation testing in the SDLC.
+		- Present POC to validate reliability of including automated testing in the project, (Cypress for ui tests).
+* **Tools:** Javascript, Cypress, Postman, Jira.    
   
 #### QA Automation | Intive  
 10/2020 - 04/2021 - Remote  
   
 * **Customer:** Local fintech that offer financial servicies, CC, payments, and others  
+* **Team and Methodology:** Scrum, Spanish, 9 people. 
 * **Responsabilities:** Support with the maintenance and creation of automation scripts for mobile and backend solutions, both built on Java-Karate. Also the support of the manual test tasks of the mobile app and backend developments all this in agile Scrum methodology.  
-* **Tools:** Java, Gerkhin, Karate DSL (Rest-assured with BDD layer), Postman, Appium, Android SDK, Android Emulators, Jira.  
-* **Team and Methodology:** Scrum, Spanish, 9 people.  
+* **Tasks and responsibilities:**  
+		- Attending grooming and planning meetings to analyze backlog and then define estimation, scope, priority, etc..
+		- Functional testing on every Story delivered, run functional and integration test suites on every Sprint. 
+		- Maintaining, improving, and increasing testing repository, promoting manual tests to automation, scripting new tests to both automation frameworks (UI 'n API), fixing, and updating already automated tests.
+		- Bug reporting on every test run, Bug triage for reports coming outside the team, keeping the focus on having all details and traceability needed.
+		- Building metrics for every stage and part to deliver clarification of quality state, reporting test runs outcomes to managers, leaders, and stakeholders.
+		- Regression testing, Sanity for every fix, through every  place were bug was reported.
+* **Tools:** Java, Gerkhin, Karate DSL (Rest-assured with BDD layer), Postman, Appium, Android SDK, Android Emulators, Jira.   
   
 #### QA Engineer | Belatrix Software  
 02/2015 - 07/2020  - Mendoza, Argentina  
