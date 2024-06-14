@@ -18,7 +18,7 @@
 - Able to plan, analyze, design, develop, execute and maintain manual and automated tests including determining priority for test scenarios and creating execution plans to implement these scenarios.
 - Able to identify opportunities for automation within software processes.
 - Advanced and practical knowledge of testing and implementation strategies.
-- Able to identify, report anddocument findings. Deliver regular reports to managers and stakeholders.
+- Able to identify, report and document findings. Deliver regular reports to managers and stakeholders.
 - Introduce suitable metrics for measuring test progress and evaluating product quality.
 
 ***
@@ -28,7 +28,6 @@
 #### SDET | Forte Group   
 10/2022 - 11/2023  - Remote
 
-* **Tasks:**  
 * **Customer:** Leading global risk and compliance solutions company. A company that provides software as a service (SaaS) products, software-enabled services (SeS), print, and compliance services related to US Securities and Exchange Commission regulations to companies in capital and investment markets. 
 * **Team and Methodology:** Scrum, Remote Latam-Europe-EEUU
 * **Challenges:**  Another teams testing work takeover, converting manual testcases to automated, start from scratch project, defining processes, new QA framework for API, new QA framework for UI 
