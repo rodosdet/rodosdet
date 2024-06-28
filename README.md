@@ -128,6 +128,7 @@ Tools: HP QuickTest Professional (QTP), HP Application lifecycle Management (ALM
   
 ## ***Certifications***  
   
+* **GitHub Foundations** - GitHub - Jun 2024 - [See credential](https://www.credly.com/badges/f42ea7c6-f0ba-4d8b-9f86-d6929d43db4e/public_url)
 * **MongoDB Node.js Developer Path** - MongoDB - May 2024 - [See credential](https://learn.mongodb.com/c/-miEAb8WSYWSiTXC2xpETg)  
 * **Microsoft certified: Azure Fundamentals** - Microsoft - Jun 2022 - [See credential](https://www.credly.com/badges/59535e38-d4dc-48aa-91ab-aa8e35cabe19?source=linked_in_profile)  
 * **EF SET English Certificate 69/100 (C1 Advanced)** - EF Standard English Test (EF SET) - Dic 2023 - [See credential](https://www.efset.org/cert/WWBCiE)   
