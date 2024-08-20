@@ -24,6 +24,11 @@
 ***
   
 ## ***Experience***  
+
+#### Sr. QA Engineer | SecureAuth
+8/2024 - Currently - Remote
+
+* **Details will be added later**
   
 #### SDET | Forte Group   
 10/2022 - 11/2023  - Remote
