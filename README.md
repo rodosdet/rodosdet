@@ -28,11 +28,20 @@
 #### Sr. QA Engineer | SecureAuth
 8/2024 - Currently - Remote
 
-* **Details will be added later**
+* **Tasks and responsibilities:**  
+	- Functional, sanity and regression testing for new developments and bug fixes delivered.
+	- Bug triage and reporting.
+	- Deploy code, creation of virtual environments for particular testing needs
+	- Developing new scripts on automation framework.
+	- Analysis and reporting automation result metrics.
+	- Dockerize test-framework to include it in entire applications Kubernetes Pipeline
+* **Team and Methodology:** Remote and distributed Latam-EEUU-Eastern Europe
+* **Challenges:**  Reducing regression testing time, improving development and testing processes, implementing new processes to 'shift left'.
+* **Tools:** Atlassian Jira 'n Confluence, Github, Cursor IA, Postman, Python Pytest Selenium, Docker, Kubernetes, Jenkins CI.
   
 #### SDET | Forte Group   
 10/2022 - 11/2023  - Remote
-
+ 
 * **Customer:** Leading global risk and compliance solutions company. A company that provides software as a service (SaaS) products, software-enabled services (SeS), print, and compliance services related to US Securities and Exchange Commission regulations to companies in capital and investment markets. 
 * **Team and Methodology:** Scrum, Remote Latam-Europe-EEUU
 * **Challenges:**  Another teams testing work takeover, converting manual testcases to automated, start from scratch project, defining processes, new QA framework for API, new QA framework for UI 
@@ -132,7 +141,7 @@ Tools: HP QuickTest Professional (QTP), HP Application lifecycle Management (ALM
 ***
   
 ## ***Certifications***  
-  
+
 * **GitHub Foundations** - GitHub - Jun 2024 - [See credential](https://www.credly.com/badges/f42ea7c6-f0ba-4d8b-9f86-d6929d43db4e/public_url)
 * **MongoDB Node.js Developer Path** - MongoDB - May 2024 - [See credential](https://learn.mongodb.com/c/-miEAb8WSYWSiTXC2xpETg)  
 * **Microsoft certified: Azure Fundamentals** - Microsoft - Jun 2022 - [See credential](https://www.credly.com/badges/59535e38-d4dc-48aa-91ab-aa8e35cabe19?source=linked_in_profile)  
@@ -143,6 +152,8 @@ Tools: HP QuickTest Professional (QTP), HP Application lifecycle Management (ALM
 
 ## ***Courses***  
 
+* Coursera - The Docker Masterclass for Beginners by Packt Publishing - (2025)
+* Coursera - Kubernetes for Beginners by Packt Publishing - (2025)
 * Udemy - The Complete Cypress v12 Course- Automation Testing Bootcamp - (2024)
 * Udemy - Preparate para certificar Foundation Level 3.1 y 4.0 - (2024)
 * Udemy - AZ-900: Microsoft Azure Fundamentals Exam Prep - (2022)  
